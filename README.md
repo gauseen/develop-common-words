@@ -16,10 +16,31 @@
 </p>
 </details>
 
+<details><summary><b>accept</b></summary>
+<p>
+[əkˈsept]：
+接收、接受
+</p>
+</details>
+
 <details><summary><b>advance</b></summary>
 <p>
 [əd'vɑːns]：
 高级、前进
+</p>
+</details>
+
+<details><summary><b>adapter</b></summary>
+<p>
+[ə'dæptə]：
+适配器
+</p>
+</details>
+
+<details><summary><b>ahead</b></summary>
+<p>
+[ə'hed]：
+先、提前的
 </p>
 </details>
 
@@ -79,6 +100,13 @@
 </p>
 </details>
 
+<details><summary><b>average</b></summary>
+<p>
+['æv(ə)rɪdʒ]：
+平均、普通
+</p>
+</details>
+
 > **B**
 
 <details><summary><b>behavior</b></summary>
@@ -88,10 +116,24 @@
 </p>
 </details>
 
-<details><summary><b>browser</b></summary>
+<details><summary><b>boot</b></summary>
 <p>
-['braʊzə]：
-浏览器
+[buːt]：
+启动
+</p>
+</details>
+
+<details><summary><b>bootstrap</b></summary>
+<p>
+['buːtstræp]：
+引导程序
+</p>
+</details>
+
+<details><summary><b>bridge</b></summary>
+<p>
+[brɪdʒ]：
+桥、桥接器
 </p>
 </details>
 
@@ -102,7 +144,28 @@
 </p>
 </details>
 
+<details><summary><b>browser</b></summary>
+<p>
+['braʊzə]：
+浏览器
+</p>
+</details>
+
 > **C**
+
+<details><summary><b>catch</b></summary>
+<p>
+[kætʃ]：
+捕获、捕捉
+</p>
+</details>
+
+<details><summary><b>category</b></summary>
+<p>
+['kætəɡɔri]：
+类别、种类
+</p>
+</details>
 
 <details><summary><b>cause</b></summary>
 <p>
@@ -122,6 +185,13 @@
 <p>
 [səˈtɪfɪˌkeɪt]：
 证书、凭证
+</p>
+</details>
+
+<details><summary><b>charset</b></summary>
+<p>
+[tʃɑˈset]：
+字符集
 </p>
 </details>
 
@@ -174,6 +244,13 @@
 </p>
 </details>
 
+<details><summary><b>compose</b></summary>
+<p>
+[kəm'pəʊz]：
+组合、组成
+</p>
+</details>
+
 <details><summary><b>component</b></summary>
 <p>
 [kəm'pəʊnənt]：
@@ -217,6 +294,13 @@
 </details>
 
 > **D**
+
+<details><summary><b>decoration</b></summary>
+<p>
+[dekə'reɪʃ(ə)n]：
+装饰
+</p>
+</details>
 
 <details><summary><b>dependencies</b></summary>
 <p>
@@ -290,6 +374,13 @@
 </p>
 </details>
 
+<details><summary><b>explore</b></summary>
+<p>
+[ɪk'splɔr]：
+探索
+</p>
+</details>
+
 <details><summary><b>export</b></summary>
 <p>
 [ˈekspɔːt]：
@@ -315,6 +406,13 @@
 <p>
 [ɪk'stendz]：
 继承、延伸
+</p>
+</details>
+
+<details><summary><b>external</b></summary>
+<p>
+[ekˈstərnəl]：
+外部的
 </p>
 </details>
 
@@ -364,6 +462,13 @@
 
 > **G**
 
+<details><summary><b>gateway</b></summary>
+<p>
+['geɪtweɪ]：
+网关、出入口
+</p>
+</details>
+
 <details><summary><b>generate</b></summary>
 <p>
 ['dʒenəreɪt]：
@@ -387,6 +492,13 @@
 </p>
 </details>
 
+<details><summary><b>horizontal</b></summary>
+<p>
+[hɒrɪ'zɒnt(ə)l]：
+水平、横
+</p>
+</details>
+
 <details><summary><b>hour</b></summary>
 <p>
 ['aʊə]：
@@ -398,6 +510,13 @@
 <p>
 ['haɪlaɪt]：
 高亮、突出
+</p>
+</details>
+
+<details><summary><b>hybrid</b></summary>
+<p>
+['haɪbrɪd]：
+混合
 </p>
 </details>
 
@@ -473,6 +592,13 @@
 </p>
 </details>
 
+<details><summary><b>issue</b></summary>
+<p>
+['ɪʃu]：
+问题
+</p>
+</details>
+
 <!-- > **J** -->
 
 <!-- > **K** -->
@@ -494,6 +620,13 @@
 </details>
 
 > **M** 
+
+<details><summary><b>manifest</b></summary>
+<p>
+['mænɪfest]：
+清单
+</p>
+</details>
 
 <details><summary><b>match</b></summary>
 <p>
@@ -579,6 +712,13 @@
 </p>
 </details>
 
+<details><summary><b>middleware</b></summary>
+<p>
+['midlwεə]：
+中间件
+</p>
+</details>
+
 <details><summary><b>minute</b></summary>
 <p>
 ['mɪnɪt]：
@@ -589,6 +729,20 @@
 <!-- > **N** -->
 
 > **O**
+
+<details><summary><b>observer</b></summary>
+<p>
+[əb'zɜːvə]：
+观察者
+</p>
+</details>
+
+<details><summary><b>operator</b></summary>
+<p>
+['ɒpəreɪtə]：
+操作者
+</p>
+</details>
 
 <details><summary><b>output</b></summary>
 <p>
@@ -606,6 +760,13 @@
 </p>
 </details>
 
+<details><summary><b>pagination</b></summary>
+<p>
+[,pædʒɪ'neɪʃ(ə)n]：
+分页
+</p>
+</details>
+
 <details><summary><b>parameter</b></summary>
 <p>
 [pə'ræmɪtə]：
@@ -613,10 +774,17 @@
 </p>
 </details>
 
-<details><summary><b>platform</b></summary>
+<details><summary><b>pattern</b></summary>
 <p>
-['plætfɔːm]：
-平台
+['pæt(ə)n]：
+模式
+</p>
+</details>
+
+<details><summary><b>perform</b></summary>
+<p>
+[pə'fɔːm]：
+执行
 </p>
 </details>
 
@@ -624,6 +792,13 @@
 <p>
 [pə'mɪʃ(ə)n]：
 允许、权限
+</p>
+</details>
+
+<details><summary><b>platform</b></summary>
+<p>
+['plætfɔːm]：
+平台
 </p>
 </details>
 
@@ -638,6 +813,13 @@
 <p>
 ['priːfɪks]：
 前缀、字首
+</p>
+</details>
+
+<details><summary><b>protect</b></summary>
+<p>
+[prə'tekt]：
+保护
 </p>
 </details>
 
@@ -843,6 +1025,20 @@
 </p>
 </details>
 
+<details><summary><b>secure</b></summary>
+<p>
+[sɪ'kjʊə]：
+安全
+</p>
+</details>
+
+<details><summary><b>slogan</b></summary>
+<p>
+['sləʊg(ə)n]：
+口号、标语
+</p>
+</details>
+
 <details><summary><b>syntax</b></summary>
 <p>
 ['sɪntæks]：
@@ -854,6 +1050,13 @@
 <p>
 ['spesɪfaɪ]：
 指定、说明
+</p>
+</details>
+
+<details><summary><b>stable</b></summary>
+<p>
+['steɪb(ə)l]：
+稳定
 </p>
 </details>
 
@@ -885,10 +1088,24 @@
 </p>
 </details>
 
+<details><summary><b>statement</b></summary>
+<p>
+['steɪtm(ə)nt]：
+声明、叙述
+</p>
+</details>
+
 <details><summary><b>structure</b></summary>
 <p>
 ['strʌktʃə]：
 结构、构造
+</p>
+</details>
+
+<details><summary><b>studio</b></summary>
+<p>
+['stjuːdɪəʊ]：
+工作室
 </p>
 </details>
 
@@ -903,6 +1120,13 @@
 <p>
 ['sʌbklɑːs]：
 子类、子集
+</p>
+</details>
+
+<details><summary><b>subscribe</b></summary>
+<p>
+[səb'skraɪb]：
+订阅
 </p>
 </details>
 
@@ -936,14 +1160,35 @@
 </p>
 </details>
 
-<!-- > **U** -->
+> **U**
+
+<details><summary><b>upgrade</b></summary>
+<p>
+[ʌp'greɪd]：
+升级
+</p>
+</details>
 
 > **V**
+
+<details><summary><b>vertical</b></summary>
+<p>
+['vɜːtɪk(ə)l]：
+垂直
+</p>
+</details>
 
 <details><summary><b>via</b></summary>
 <p>
 [ˈvaɪə]：
 通过
+</p>
+</details>
+
+<details><summary><b>void</b></summary>
+<p>
+[vɒɪd]：
+空的
 </p>
 </details>
 
@@ -954,7 +1199,21 @@
 </p>
 </details>
 
-<!-- > **W** -->
+> **W**
+
+<details><summary><b>widget</b></summary>
+<p>
+['wɪdʒɪt]：
+小部件
+</p>
+</details>
+
+<details><summary><b>wrap</b></summary>
+<p>
+[ræp]：
+包、包装
+</p>
+</details>
 
 <!-- > **X** -->
 
