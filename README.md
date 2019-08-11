@@ -51,6 +51,20 @@
 </p>
 </details>
 
+<details><summary><b>arrow</b></summary>
+<p>
+['ærəʊ]：
+箭头
+</p>
+</details>
+
+<details><summary><b>assemble</b></summary>
+<p>
+[ə'semb(ə)l]：
+集合、组合
+</p>
+</details>
+
 <details><summary><b>assign</b></summary>
 <p>
 [ə'saɪn]：
@@ -209,6 +223,13 @@
 </p>
 </details>
 
+<details><summary><b>column</b></summary>
+<p>
+['kɒləm]：
+列
+</p>
+</details>
+
 <details><summary><b>command</b></summary>
 <p>
 [kə'mɑːnd]：
@@ -269,6 +290,13 @@
 <p>
 [kəm'pres]：
 压缩
+</p>
+</details>
+
+<details><summary><b>constraint</b></summary>
+<p>
+[kən'streɪnt]：
+约束、强制
 </p>
 </details>
 
@@ -364,6 +392,20 @@
 <p>
 [ɪ'fekt]：
 影响、效果、作用
+</p>
+</details>
+
+<details><summary><b>efficient</b></summary>
+<p>
+[ɪ'fɪʃnt]：
+高效
+</p>
+</details>
+
+<details><summary><b>emulator</b></summary>
+<p>
+['emjʊleɪtə]：
+模拟器
 </p>
 </details>
 
@@ -522,6 +564,13 @@
 
 > **I**
 
+<details><summary><b>immutable</b></summary>
+<p>
+[ɪ'mjuːtəb(ə)l]：
+不可变的
+</p>
+</details>
+
 <details><summary><b>import</b></summary>
 <p>
 [ɪm'pɔːt]：
@@ -561,6 +610,13 @@
 <p>
 ['ɪnst(ə)ns]：
 实例
+</p>
+</details>
+
+<details><summary><b>integer</b></summary>
+<p>
+['ɪntɪdʒə]：
+整数
 </p>
 </details>
 
@@ -632,6 +688,13 @@
 <p>
 [mætʃ]：
 匹配、比赛
+</p>
+</details>
+
+<details><summary><b>matrix</b></summary>
+<p>
+['meɪtrɪks]：
+矩阵、模型
 </p>
 </details>
 
@@ -967,6 +1030,13 @@
 </p>
 </details>
 
+<details><summary><b>regular</b></summary>
+<p>
+[ˈreɡjələr]：
+正则
+</p>
+</details>
+
 <details><summary><b>resolve</b></summary>
 <p>
 [rɪ'zɒlv]：
@@ -1018,6 +1088,13 @@
 
 > **S**
 
+<details><summary><b>scaffold</b></summary>
+<p>
+['skæfəʊld]：
+脚手架
+</p>
+</details>
+
 <details><summary><b>second</b></summary>
 <p>
 ['sek(ə)nd]：
@@ -1036,6 +1113,13 @@
 <p>
 ['sləʊg(ə)n]：
 口号、标语
+</p>
+</details>
+
+<details><summary><b>snippet</b></summary>
+<p>
+['snɪpɪt]：
+片段、小片
 </p>
 </details>
 
