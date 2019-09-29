@@ -123,6 +123,13 @@
 
 > **B**
 
+<details><summary><b>bearer</b></summary>
+<p>
+[ˈberər]：
+送信人、搬运工人
+</p>
+</details>
+
 <details><summary><b>behavior</b></summary>
 <p>
 [bɪˈheɪvjə]：
@@ -297,6 +304,13 @@
 <p>
 [kən'streɪnt]：
 约束、强制
+</p>
+</details>
+
+<details><summary><b>conflict</b></summary>
+<p>
+[ˈkɒnflɪkt]：
+冲突
 </p>
 </details>
 
@@ -502,6 +516,13 @@
 </p>
 </details>
 
+<details><summary><b>forgery</b></summary>
+<p>
+[ˈfɔːdʒəri]：
+伪造
+</p>
+</details>
+
 > **G**
 
 <details><summary><b>gateway</b></summary>
@@ -624,6 +645,13 @@
 <p>
 [ɪntər'ækʃ(ə)n]：
 交互、互动
+</p>
+</details>
+
+<details><summary><b>interface</b></summary>
+<p>
+[ˈɪntəfeɪs]：
+接口、界面
 </p>
 </details>
 
@@ -830,6 +858,13 @@
 </p>
 </details>
 
+<details><summary><b>paint</b></summary>
+<p>
+[peɪnt]：
+渲染、绘制
+</p>
+</details>
+
 <details><summary><b>parameter</b></summary>
 <p>
 [pə'ræmɪtə]：
@@ -942,6 +977,13 @@
 </p>
 </details>
 
+<details><summary><b>prune</b></summary>
+<p>
+[pruːn]：
+修剪、精简
+</p>
+</details>
+
 <details><summary><b>polyfill</b></summary>
 <p>
 <!-- []： -->
@@ -974,6 +1016,13 @@
 <p>
 [prə'vaɪd]：
 提供
+</p>
+</details>
+
+<details><summary><b>priority</b></summary>
+<p>
+[praɪˈɒrəti]：
+优先、优先权
 </p>
 </details>
 
@@ -1130,6 +1179,13 @@
 </p>
 </details>
 
+<details><summary><b>specification</b></summary>
+<p>
+[ˌspesɪfɪˈkeɪʃn]：
+规范、规格
+</p>
+</details>
+
 <details><summary><b>specify</b></summary>
 <p>
 ['spesɪfaɪ]：
@@ -1223,10 +1279,10 @@
 </p>
 </details>
 
-<details><summary><b>track</b></summary>
+<details><summary><b>temporary</b></summary>
 <p>
-[træk]：
-追踪
+[ˈtemprəri]：
+临时
 </p>
 </details>
 
@@ -1234,6 +1290,13 @@
 <p>
 ['tɜːmɪn(ə)l]：
 终端、终点
+</p>
+</details>
+
+<details><summary><b>track</b></summary>
+<p>
+[træk]：
+追踪
 </p>
 </details>
 
@@ -1289,6 +1352,13 @@
 <p>
 ['wɪdʒɪt]：
 小部件
+</p>
+</details>
+
+<details><summary><b>wildcard</b></summary>
+<p>
+['waɪldkɑrd]：
+通配符
 </p>
 </details>
 
