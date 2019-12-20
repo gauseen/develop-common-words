@@ -6,27 +6,17 @@ on:
       - release
 
 jobs:
-  build:
+  jobs:
+    build-and-deploy:
+      runs-on: ubuntu-latest
+      steps:
+      - name: Checkout
+        uses: actions/checkout@v1
 
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [12.x]
-
-    steps:
-    - uses: actions/checkout@v1
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        ACCESS_TOKEN: ${{ secrets.TOKEN }}
-        BASE_BRANCH: release # 要构建的分支
-        BRANCH: master # 目标分支
-        FOLDER: . # 要部署的文件夹
-
-    - name: npm build
-      run: |
-        npm run build
-      env:
-        CI: true
+      - name: Build and Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.TOKEN }}
+          BASE_BRANCH: release # 要构建的分支
+          BRANCH: master # 目标分支
+          FOLDER: . # 要发布的文件夹
