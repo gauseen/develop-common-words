@@ -14,7 +14,7 @@ jobs:
 
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
+      env:
         ACCESS_TOKEN: ${{ secrets.TOKEN }}
         BASE_BRANCH: release # 要构建的分支
         BRANCH: master # 目标分支
