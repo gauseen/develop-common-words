@@ -1,18 +1,18 @@
-## :pencil: 程序员高频单词
+## :pencil: 程序员高频单词：
 
   > **A**
-  
-  <details><summary><b>assemble</b></summary>
-    <p>
-      [ə'semb(ə)l]：
-      集合、组合
-    </p>
-  </details>
   
   <details><summary><b>abort</b></summary>
     <p>
       [ə'bɔːt]：
       退出、舍弃
+    </p>
+  </details>
+  
+  <details><summary><b>abstract</b></summary>
+    <p>
+      ['æbstrækt]：
+      抽象
     </p>
   </details>
   
@@ -65,10 +65,10 @@
     </p>
   </details>
   
-  <details><summary><b>abstract</b></summary>
+  <details><summary><b>assemble</b></summary>
     <p>
-      ['æbstrækt]：
-      抽象
+      [ə'semb(ə)l]：
+      集合、组合
     </p>
   </details>
   
@@ -188,17 +188,17 @@
   
   > **C**
   
-  <details><summary><b>compare</b></summary>
-    <p>
-      [kəm'peə]：
-      对比、比较
-    </p>
-  </details>
-  
   <details><summary><b>catch</b></summary>
     <p>
       [kætʃ]：
       捕获、捕捉
+    </p>
+  </details>
+  
+  <details><summary><b>category</b></summary>
+    <p>
+      ['kætəɡɔri]：
+      类别、种类
     </p>
   </details>
   
@@ -272,10 +272,10 @@
     </p>
   </details>
   
-  <details><summary><b>category</b></summary>
+  <details><summary><b>compare</b></summary>
     <p>
-      ['kætəɡɔri]：
-      类别、种类
+      [kəm'peə]：
+      对比、比较
     </p>
   </details>
   
@@ -416,17 +416,17 @@
   
   > **E**
   
-  <details><summary><b>expression</b></summary>
-    <p>
-      [ɪkˈspreʃn]：
-      表达式、表达、词句
-    </p>
-  </details>
-  
   <details><summary><b>effect</b></summary>
     <p>
       [ɪ'fekt]：
       影响、效果、作用
+    </p>
+  </details>
+  
+  <details><summary><b>efficient</b></summary>
+    <p>
+      [ɪ'fɪʃnt]：
+      高效
     </p>
   </details>
   
@@ -472,10 +472,10 @@
     </p>
   </details>
   
-  <details><summary><b>efficient</b></summary>
+  <details><summary><b>expression</b></summary>
     <p>
-      [ɪ'fɪʃnt]：
-      高效
+      [ɪkˈspreʃn]：
+      表达式、表达、词句
     </p>
   </details>
   
@@ -620,17 +620,17 @@
   
   > **I**
   
-  <details><summary><b>instance</b></summary>
-    <p>
-      ['ɪnst(ə)ns]：
-      实例
-    </p>
-  </details>
-  
   <details><summary><b>immutable</b></summary>
     <p>
       [ɪ'mjuːtəb(ə)l]：
       不可变的
+    </p>
+  </details>
+  
+  <details><summary><b>import</b></summary>
+    <p>
+      [ɪm'pɔːt]：
+      导入、进口
     </p>
   </details>
   
@@ -669,10 +669,10 @@
     </p>
   </details>
   
-  <details><summary><b>import</b></summary>
+  <details><summary><b>instance</b></summary>
     <p>
-      [ɪm'pɔːt]：
-      导入、进口
+      ['ɪnst(ə)ns]：
+      实例
     </p>
   </details>
   
@@ -747,17 +747,17 @@
   
   > **M**
   
-  <details><summary><b>major</b></summary>
-    <p>
-      ['meɪdʒə]：
-      主要的
-    </p>
-  </details>
-  
   <details><summary><b>manifest</b></summary>
     <p>
       ['mænɪfest]：
       清单
+    </p>
+  </details>
+  
+  <details><summary><b>match</b></summary>
+    <p>
+      [mætʃ]：
+      匹配、比赛
     </p>
   </details>
   
@@ -796,10 +796,10 @@
     </p>
   </details>
   
-  <details><summary><b>match</b></summary>
+  <details><summary><b>major</b></summary>
     <p>
-      [mætʃ]：
-      匹配、比赛
+      ['meɪdʒə]：
+      主要的
     </p>
   </details>
   
@@ -879,17 +879,17 @@
   
   > **P**
   
-  <details><summary><b>process</b></summary>
-    <p>
-      [ˈprəʊses]：
-      进程、程序、过程
-    </p>
-  </details>
-  
   <details><summary><b>package</b></summary>
     <p>
       ['pækɪdʒ]：
       包
+    </p>
+  </details>
+  
+  <details><summary><b>pagination</b></summary>
+    <p>
+      [,pædʒɪ'neɪʃ(ə)n]：
+      分页
     </p>
   </details>
   
@@ -977,10 +977,10 @@
     </p>
   </details>
   
-  <details><summary><b>pagination</b></summary>
+  <details><summary><b>process</b></summary>
     <p>
-      [,pædʒɪ'neɪʃ(ə)n]：
-      分页
+      [ˈprəʊses]：
+      进程、程序、过程
     </p>
   </details>
   
@@ -1100,17 +1100,17 @@
   
   > **R**
   
-  <details><summary><b>reject</b></summary>
-    <p>
-      [rɪˈdʒɛkt]：
-      拒绝
-    </p>
-  </details>
-  
   <details><summary><b>reactive</b></summary>
     <p>
       [rɪ'æktɪv]：
       响应、反应
+    </p>
+  </details>
+  
+  <details><summary><b>record</b></summary>
+    <p>
+      [ˈrekɔːd]：
+      记录、录音
     </p>
   </details>
   
@@ -1142,10 +1142,10 @@
     </p>
   </details>
   
-  <details><summary><b>record</b></summary>
+  <details><summary><b>reject</b></summary>
     <p>
-      [ˈrekɔːd]：
-      记录、录音
+      [rɪˈdʒɛkt]：
+      拒绝
     </p>
   </details>
   
@@ -1179,17 +1179,17 @@
   
   > **S**
   
-  <details><summary><b>state</b></summary>
-    <p>
-      [steɪt]：
-      状态、州
-    </p>
-  </details>
-  
   <details><summary><b>scaffold</b></summary>
     <p>
       ['skæfəʊld]：
       脚手架
+    </p>
+  </details>
+  
+  <details><summary><b>second</b></summary>
+    <p>
+      ['sek(ə)nd]：
+      秒、第二
     </p>
   </details>
   
@@ -1249,10 +1249,10 @@
     </p>
   </details>
   
-  <details><summary><b>second</b></summary>
+  <details><summary><b>state</b></summary>
     <p>
-      ['sek(ə)nd]：
-      秒、第二
+      [steɪt]：
+      状态、州
     </p>
   </details>
   
