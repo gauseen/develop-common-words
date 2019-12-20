@@ -6,17 +6,16 @@ on:
       - release
 
 jobs:
-  jobs:
-    build-and-deploy:
-      runs-on: ubuntu-latest
-      steps:
-      - name: Checkout
-        uses: actions/checkout@v1
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
 
-      - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          ACCESS_TOKEN: ${{ secrets.TOKEN }}
-          BASE_BRANCH: release # 要构建的分支
-          BRANCH: master # 目标分支
-          FOLDER: . # 要发布的文件夹
+    - name: Build and Deploy
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.TOKEN }}
+        BASE_BRANCH: release # 要构建的分支
+        BRANCH: master # 目标分支
+        FOLDER: . # 要发布的文件夹
