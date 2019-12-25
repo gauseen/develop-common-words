@@ -23,4 +23,4 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.TOKEN }}
         BASE_BRANCH: release # 要构建的分支
         BRANCH: master # 目标分支
-        FOLDER: . # 要发布的文件夹
+        FOLDER: dist # 要发布的文件夹
