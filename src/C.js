@@ -110,6 +110,11 @@ module.exports = [
     translate: `上下文、环境`,
   },
   {
+    word: `contain`,
+    pronounce: `[kənˈteɪn]`,
+    translate: `包含`,
+  },
+  {
     word: `convert`,
     pronounce: `[kən'vɜːt]`,
     translate: `变、变换、兑换`,

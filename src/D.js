@@ -25,6 +25,16 @@ module.exports = [
     translate: `装饰`,
   },
   {
+    word: `declare`,
+    pronounce: `[dɪˈkler]`,
+    translate: `声明`,
+  },
+  {
+    word: `decorator`,
+    pronounce: `[ˈdekəreɪtər]`,
+    translate: `装饰者`,
+  },
+  {
     word: `device`,
     pronounce: `[dɪ'vaɪs]`,
     translate: `设备`,

@@ -55,6 +55,11 @@ module.exports = [
     translate: `前缀、字首`,
   },
   {
+    word: `present`,
+    pronounce: `[ˈpreznt]`,
+    translate: `现在的、目前`,
+  },
+  {
     word: `protect`,
     pronounce: `[prə'tekt]`,
     translate: `保护`,
@@ -98,6 +103,11 @@ module.exports = [
     word: `prune`,
     pronounce: `[pruːn]`,
     translate: `修剪、精简`,
+  },
+  {
+    word: `primitive`,
+    pronounce: `[ˈprɪmətɪv]`,
+    translate: `原始的`,
   },
   {
     word: `polyfill`,

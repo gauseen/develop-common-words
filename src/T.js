@@ -5,6 +5,11 @@ module.exports = [
     translate: `任务`,
   },
   {
+    word: `traversal`,
+    pronounce: `[trəˈvərs(ə)l]`,
+    translate: `遍历`,
+  },
+  {
     word: `temporary`,
     pronounce: `[ˈtemprəri]`,
     translate: `临时`,

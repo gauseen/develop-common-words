@@ -1,5 +1,10 @@
 module.exports = [
   {
+    word: `iterator`,
+    pronounce: `[ɪtə'reɪtə]`,
+    translate: `迭代器`,
+  },
+  {
     word: `immutable`,
     pronounce: `[ɪ'mjuːtəb(ə)l]`,
     translate: `不可变的`,

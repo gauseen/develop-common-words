@@ -1,5 +1,10 @@
 module.exports = [
   {
+    word: `explicitly`,
+    pronounce: `[ɪkˈsplɪsɪtli]`,
+    translate: `明确地`,
+  },
+  {
     word: `effect`,
     pronounce: `[ɪ'fekt]`,
     translate: `影响、效果、作用`,
