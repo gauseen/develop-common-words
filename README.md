@@ -648,6 +648,13 @@
   
   > **I**
   
+  <details><summary><b>identifier</b></summary>
+    <p>
+      [aɪˈdentɪfaɪə(r)]：
+      标识符
+    </p>
+  </details>
+  
   <details><summary><b>iterator</b></summary>
     <p>
       [ɪtə'reɪtə]：
@@ -912,6 +919,13 @@
     </p>
   </details>
   
+  <details><summary><b>owner</b></summary>
+    <p>
+      [ˈəʊnə(r)]：
+      所有者、物主
+    </p>
+  </details>
+  
   > **P**
   
   <details><summary><b>package</b></summary>
@@ -1040,10 +1054,24 @@
     </p>
   </details>
   
+  <details><summary><b>provisional</b></summary>
+    <p>
+      [prəˈvɪʒənl]：
+      临时的
+    </p>
+  </details>
+  
   <details><summary><b>preset</b></summary>
     <p>
       [priː'set]：
       预设、预置
+    </p>
+  </details>
+  
+  <details><summary><b>prepend</b></summary>
+    <p>
+      [pri:'pend]：
+      前置、预先
     </p>
   </details>
   
@@ -1368,6 +1396,13 @@
     </p>
   </details>
   
+  <details><summary><b>shim</b></summary>
+    <p>
+      [ʃɪm]：
+      垫片、填隙片
+    </p>
+  </details>
+  
   > **T**
   
   <details><summary><b>task</b></summary>
@@ -1418,6 +1453,13 @@
     <p>
       [ʌp'greɪd]：
       升级
+    </p>
+  </details>
+  
+  <details><summary><b>unique</b></summary>
+    <p>
+      [juˈniːk]]：
+      唯一的、独一无二的
     </p>
   </details>
   
@@ -1487,5 +1529,5 @@
   
   > **Z**
   
-  ### :tada: **共计：205 个单词**
+  ### :tada: **共计：211 个单词**
   
