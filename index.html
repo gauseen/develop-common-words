@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>打字练习</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css">
+
+  <style>
+    body {
+      max-width: 100vw;
+    }
+    #box {
+      font-size: 20px;
+    }
+    h2 {
+      text-align: center;
+    }
+    .green {
+      color: greenyellow;
+    }
+    .red {
+      background-color: rgb(117, 20, 20);
+      color: #fff;
+    }
+    .line {
+      width: 72%;
+      margin: 0 auto;
+    }
+    .line .inputWord {
+      margin: 8px 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<h2>「程序员常见单词打字练习」</h2>
+<section id="box"></section>
+
+<body>
+  <script src="./allWordList.js"></script>
+  <script>
+    const $ = (id) => document.querySelectorAll(id)
+
+    let linesEle = allWordList.map((lineWords, index) => {
+      return generateLine(lineWords, index)
+    }).join('')
+
+    $('#box')[0].innerHTML = linesEle
+
+    $('.inputWord').forEach(inputEle => {
+      inputEle.addEventListener('input', (e) => {
+        let temp = '<span>'
+        let currInputEle = e.target
+        let currInputHiddenEle = currInputEle.previousElementSibling
+        let currTextEle = currInputHiddenEle.previousElementSibling
+
+        let targetValue = currInputHiddenEle.value
+        let inputValue = currInputEle.value
+        let inputLength = inputValue.length
+        for (let i = 0; i < inputLength; i++) {
+          let inputItem = inputValue[i]
+          let targetItem = targetValue[i]
+          let isEquality = inputItem === targetItem
+
+          if (isEquality) {
+            temp += generateWord(targetValue[i], isEquality)
+          } else {
+            temp += generateWord(targetValue[i], isEquality)
+          }
+        }
+
+        temp += `${targetValue.slice(inputLength)}</span>`
+
+        insertText(currTextEle, temp)
+      })
+    })
+
+    function insertText (container, temp) {
+      container.innerHTML = temp
+    }
+
+    function generateLine (lineWords, index) {
+      let lineWordsString = lineWords.map(item => item.word).join(' ')
+      return (`
+        <div class="line line-${index}">
+          <div class="text">${lineWordsString}</div>
+          <input class="inputHidden" type="hidden" value="${lineWordsString}">
+          <input class="inputWord" value="" autocomplete="off" type="text">
+        </div>
+      `)
+    }
+
+    function generateWord (word,  isEquality) {
+      let className =  isEquality ? 'green' : 'red'
+      return `<span class="${className}">${word}</span>`
+    }
+
+  </script>
+</body>
+</html>
