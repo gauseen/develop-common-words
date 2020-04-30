@@ -17,10 +17,18 @@ jobs:
         npm install
         npm run build
 
-    - name: Build and Deploy
+    - name: Build and Deploy Readme
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         ACCESS_TOKEN: ${{ secrets.TOKEN }}
         BASE_BRANCH: release # 要构建的分支
         BRANCH: master # 目标分支
         FOLDER: dist # 要发布的文件夹
+
+    - name: Build and Deploy gh-pages
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.TOKEN }}
+        BASE_BRANCH: release # 要构建的分支
+        BRANCH: gh-pages # 目标分支
+        FOLDER: gh-pages # 要发布的文件夹
