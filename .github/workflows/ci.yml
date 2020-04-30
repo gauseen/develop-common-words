@@ -6,7 +6,7 @@ on:
       - release
 
 jobs:
-  build-and-deploy:
+  build-and-deploy-readme:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -24,6 +24,17 @@ jobs:
         BASE_BRANCH: release # 要构建的分支
         BRANCH: master # 目标分支
         FOLDER: dist # 要发布的文件夹
+
+  build-and-deploy-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+
+    - name: Install
+      run: |
+        npm install
+        npm run build:gh
 
     - name: Build and Deploy gh-pages
       uses: JamesIves/github-pages-deploy-action@releases/v3

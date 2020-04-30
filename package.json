@@ -4,7 +4,8 @@
   "description": "程序员开发常用单词",
   "main": "index.js",
   "scripts": {
-    "build": "node ./lib/index.js & node ./lib/typewriting.js"
+    "build": "node ./lib/index.js",
+    "build:gh": "node ./lib/typewriting.js"
   },
   "repository": "git@github.com:gauseen/develop-common-words.git",
   "author": "gauseen <gauseen@gmail.com>",
