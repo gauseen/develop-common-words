@@ -1,5 +1,10 @@
 module.exports = [
   {
+    word: `identifier`,
+    pronounce: `[aɪˈdentɪfaɪə(r)]`,
+    translate: `标识符`,
+  },
+  {
     word: `iterator`,
     pronounce: `[ɪtə'reɪtə]`,
     translate: `迭代器`,

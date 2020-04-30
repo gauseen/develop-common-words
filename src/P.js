@@ -90,9 +90,19 @@ module.exports = [
     translate: `承诺、许诺`,
   },
   {
+    word: `provisional`,
+    pronounce: `[prəˈvɪʒənl]`,
+    translate: `临时的`,
+  },
+  {
     word: `preset`,
     pronounce: `[priː'set]`,
     translate: `预设、预置`,
+  },
+  {
+    word: `prepend`,
+    pronounce: `[pri:'pend]`,
+    translate: `前置、预先`,
   },
   {
     word: `precision`,

@@ -100,6 +100,11 @@ module.exports = [
     translate: `粘的`,
   },
   {
+    word: `shim`,
+    pronounce: `[ʃɪm]`,
+    translate: `垫片、填隙片`,
+  },
+  {
     word: ``,
     pronounce: ``,
     translate: ``,
