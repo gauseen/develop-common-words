@@ -1256,6 +1256,13 @@
     </p>
   </details>
   
+  <details><summary><b>recent</b></summary>
+    <p>
+      [ˈrisənt]：
+      最近的、最近打开的文档
+    </p>
+  </details>
+  
   > **S**
   
   <details><summary><b>scaffold</b></summary>
@@ -1531,5 +1538,5 @@
   
   > **Z**
   
-  ### :tada: **共计：211 个单词**
+  ### :tada: **共计：212 个单词**
   
