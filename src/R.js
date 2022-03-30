@@ -55,6 +55,11 @@ module.exports = [
     translate: `路由、路线`,
   },
   {
+    word: `recent`,
+    pronounce: `[ˈrisənt]`,
+    translate: `最近的、最近打开的文档`,
+  },
+  {
     word: ``,
     pronounce: ``,
     translate: ``,
